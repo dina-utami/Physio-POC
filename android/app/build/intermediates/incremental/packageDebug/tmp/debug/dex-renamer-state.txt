@@ -1,0 +1,10 @@
+#Mon Nov 30 11:51:45 EST 2020
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/dinautami/Documents/physio-poc/examples-master/lite/examples/posenet/android/app/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
+base.1=/Users/dinautami/Documents/physio-poc/examples-master/lite/examples/posenet/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+base.0=/Users/dinautami/Documents/physio-poc/examples-master/lite/examples/posenet/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
